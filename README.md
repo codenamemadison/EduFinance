@@ -6,4 +6,4 @@
 
 Languages/Technologies Used: HTML, CSS, 
 
-https://codenamemadison.github.io/NYCTech2021/
+Click here to view prototype: [x](https://codenamemadison.github.io/NYCTech2021/index.html)
