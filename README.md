@@ -2,7 +2,7 @@
 Created a prototype of a future product and pitched to employees at Morgan Stanley
 ## Product Description
 A web-interactive prototype of financial management tool catered towards Gen Z and their unique financial wellness needs.
-[Click here to view the prototype](https://codenamemadison.github.io/NYCTech2021/index.html)
+[Click here to view the prototype](https://codenamemadison.github.io/EduFinance/)
 
 ![Home Page](/README_images/home_page.png)
 ![Stat Page](/README_images/stat_page.png)
